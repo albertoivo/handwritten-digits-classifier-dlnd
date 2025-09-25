@@ -1,2 +1,4 @@
 .vscode/settings.json
 .ipynb_checkpoints/*.ipynb
+data/
+mnist_model.pth
